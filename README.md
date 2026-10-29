@@ -4,6 +4,8 @@ Export individual animation actions into separate files.
 
 No object stored, only keyframe data.
 
+Developed on: Blender 5.2
+
 ## Usage
 ### Basics
 
@@ -35,7 +37,7 @@ Set the `Folder` path, all actions will be exported into individual `.animt` fil
 
 ## Importing in engine
 
-Import plugin for Godot engine is available: (link)
+Import plugin for Godot engine is available: https://github.com/Rytelier/Godot-animation-action-import
 
 Imported files can also be used in other engines, refer to section below on how file structure works.
 
